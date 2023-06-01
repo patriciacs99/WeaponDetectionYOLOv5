@@ -14,8 +14,8 @@ They include the images subdivided in folders train, valid and test, or only tes
 :warning: In some cases it will be necessary to modify the path in the Yaml file so that it detects the images correctly in Google Colab adapting it to the Drive directory where they are contained.
 
 ## :gear: Models
-The models already trained based on YOLOv5s and YOLOv5m are included in the **Models** folder. YOLOv5s is the one used in the experiments.
+The models already trained based on YOLOv5s and YOLOv5m are included in the **Modelos** folder. YOLOv5s is the one used in the experiments.
 If you do not want to retrain, you can use the models contained here.
 
 ## :detective: Results 
-The **Results** folder contains the results obtained when detecting the weapons for each experiment as well as the results of the evaluation metrics.
+The **Resultados** folder contains the results obtained when detecting the weapons for each experiment as well as the results of the evaluation metrics.
