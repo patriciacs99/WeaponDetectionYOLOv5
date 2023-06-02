@@ -13,7 +13,7 @@ En el link encontraremos una carpeta por cada experimento que contendrá los dat
 
 ### Datasets
 En la carpeta **DATASETS** se incluyen los distintos datasets utilizados en el experimento descritos en la memoria. 
-Incluyen las imágenes subdivididas en carpetas train, valid y test, o solo test en caso de que el dataset haya sido utilizado para comprobar el rendimiento del modelo entrenado bajo unas condiciones determinadas. Contienen también un fichero de extensión Yaml donde se indica la ruta de las imágenes en carpetas del dataset. 
+Incluyen las imágenes subdivididas en carpetas train, valid y test, o solo test en caso de que el dataset haya sido utilizado para comprobar el rendimiento del modelo entrenado ante unas condiciones determinadas. Contienen también un fichero de extensión Yaml donde se indica la ruta de las imágenes en carpetas del dataset. 
 
 :warning: En algunos caso será necesario modificar la ruta en el fichero Yaml para que detecte las imágenes correctamente en Google Colab adaptandolo al directorio de Drive donde estén contenidas. En el cuaderno de Google Colab se explica con más detalle como modificarlo.
 
