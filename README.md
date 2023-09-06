@@ -1,4 +1,4 @@
-# :gun: Influence of Perceptual Variabilities on Firearm Detection using Deep Learning (YOLOv5 firearms detection)
+# :gun: Influence of Perceptual Variabilities on Firearm Detection using Deep Learning (YOLOv5 Firearms Detection)
 In this repository you can find the code needed to train, apply and test the YOLOv5 model for the detection of handguns and long guns as well as the data used, trained models and results obtained.
 
 ![Guns](Guns.png)
