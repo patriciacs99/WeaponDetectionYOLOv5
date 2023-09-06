@@ -1,5 +1,8 @@
 # :gun: WeaponDetectionYOLOv5s
-In this repository you can find the code needed to train, apply and test the YOLOv5s model for the detection of short and long firearms as well as the data used, trained models and results obtained.
+In this repository you can find the code needed to train, apply and test the YOLOv5 model for the detection of handguns and long guns as well as the data used, trained models and results obtained.
+
+![Guns](Guns.png)
+
 
 ## :page_facing_up: Project Report
 The project report is **Memoria.pdf** (Spanish).
