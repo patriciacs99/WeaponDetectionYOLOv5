@@ -28,3 +28,10 @@ In the **RESULTADOS** folder you will find the results obtained when detecting t
 ### Models
 The models already trained based on YOLOv5s and YOLOv5m are included in the **Modelos** folder. YOLOv5s is the one used in the experiments.
 If you do not want to train again, you can use the models contained here.
+
+## Related repositories
+- [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)  
+- [Weapon Detection & Classification through CCTV surveillance using Deep Learning-CNNs](https://github.com/ivaibhavkr/Weapon-Detection-And-Classification.git)  
+- [YOLOv5 application on detection of dogs and cats](https://github.com/flyingfish16/Dog-Cat-Detection-YOLOv5)  
+- [Datasets for weapon detection based on image classification and object detection tasks](https://github.com/ari-dasci/OD-WeaponDetection)   
+- [Pretrained YOLOv5 model to detect weapons in various scenarios](https://github.com/etgins/weapon_detection_with_transfer_learning)  
