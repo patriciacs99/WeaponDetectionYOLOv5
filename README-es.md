@@ -3,7 +3,7 @@ En este repositorio puede encontrarse tanto el código necesario para entrenar, 
 ![Guns](Guns.png)
 
 ## :page_facing_up: Memoria del proyecto
-La memoria explicativa del proyecto es **Memoria.pdf**
+La memoria explicativa del proyecto es **Memoria_Spanish.pdf**
 
 ## :notebook: Google Colab Notebook 
 En el cuaderno de Google Colab de nombre **WeaponDetectionYOLOv5** se encuentra el código utilizado para el entrenamiento, validación del modelo YOLOv5s para la detección de armas. Las instrucciones a seguir para ejecutarlo correctamente se incluyen a modo de celdas de texto en el propio cuaderno. Basta con ejecutar las mismas en el orden en el que aparecen. 
