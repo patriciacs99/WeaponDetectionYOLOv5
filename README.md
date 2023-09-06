@@ -27,4 +27,4 @@ In the **RESULTADOS** folder you will find the results obtained when detecting t
 
 ### Models
 The models already trained based on YOLOv5s and YOLOv5m are included in the **Modelos** folder. YOLOv5s is the one used in the experiments.
-If you do not want to retrain, you can use the models contained here.
+If you do not want to train again, you can use the models contained here.
