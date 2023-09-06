@@ -1,5 +1,6 @@
 # :gun: WeaponDetectionYOLOv5
 En este repositorio puede encontrarse tanto el código necesario para entrenar, aplicar y testear el modelo YOLOv5s para la detección de armas cortas y largas de fuego, como los datos utilizados, modelos entrenados y resultados obtenidos.
+![Guns](Guns.png)
 
 ## :page_facing_up: Memoria del proyecto
 La memoria explicativa del proyecto es **Memoria.pdf**
