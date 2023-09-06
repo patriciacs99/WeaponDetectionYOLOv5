@@ -1,4 +1,4 @@
-# :gun: WeaponDetectionYOLOv5
+# :gun: Influence of Perceptual Variabilities on Firearm Detection using Deep Learning (YOLOv5 Firearms Detection)
 En este repositorio puede encontrarse tanto el código necesario para entrenar, aplicar y testear el modelo YOLOv5s para la detección de armas cortas y largas de fuego, como los datos utilizados, modelos entrenados y resultados obtenidos.
 ![Guns](Guns.png)
 
