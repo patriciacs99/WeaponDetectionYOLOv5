@@ -5,7 +5,7 @@ In this repository you can find the code needed to train, apply and test the YOL
 
 
 ## :page_facing_up: Project Report
-The project report is **Memoria.pdf** (Spanish).
+The project report is **Memoria_Spanish.pdf** (In Spanish).
 
 ## :notebook: Google Colab Notebook 
 The Google Colab notebook named **WeaponDetectionYOLOv5** contains the code used for training, validation of the YOLOv5s model for weapon detection. The instructions to follow to execute it correctly are included as text cells in the notebook itself. It is enough to execute them in the order in which they appear. 
